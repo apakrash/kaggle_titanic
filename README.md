@@ -1,3 +1,3 @@
-Kaggle Titnic problem
+Kaggle Titanic problem
 
 https://www.kaggle.com/c/titanic
